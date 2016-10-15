@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RemoteControl</string>
+    <string name="shutdown">Shutdown Computer</string>
+    <string name="openInBrowser">Open in Browser</string>
+    <string name="closeConnection">Close Connection</string>
+    <string name="usernameLbl">Username</string>
+</resources>
